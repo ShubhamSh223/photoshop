@@ -1,0 +1,19 @@
+body{
+	background-color:black;
+	}
+main{
+	text-align:center;
+}
+img{
+	 width:25%;
+	 /**height:5%;**/
+}
+span{
+	padding:2%;
+}
+div{
+	border:20px solid black;
+}
+/**div{
+	padding:30px;
+}**/
